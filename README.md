@@ -1,8 +1,8 @@
 # future-math
 
-迟点吧~
+http://future-math.dayandata.cn/
 
-做到八成左右再开源。
+迟点吧~ 做到八成左右再开源。
 
 留star可以赶进度，一个star加班一小时。
 
